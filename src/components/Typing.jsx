@@ -14,9 +14,6 @@ export default function Typing() {
                 <span>
                     <p>1:00</p>
                 </span>
-                <span>
-                    <p>0 WPM</p>
-                </span>
                 <button>RESET</button>
             </div>
         </div>

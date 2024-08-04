@@ -8,7 +8,7 @@ export default function Footer() {
           <a>
             <i class="fa-brands fa-tiktok"></i>
           </a>
-          <a>
+          <a href='https://www.instagram.com/winterwithouther' target="_blank">
             <i class="fa-brands fa-instagram"></i>
           </a>
           <a>

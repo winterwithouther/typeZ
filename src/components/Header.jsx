@@ -5,7 +5,7 @@ export default function Header() {
     <div className='header-container'>
         <div className='title-container'>
             <span id="logo-title">TYPE<span id="z">Z</span></span>
-            <i class="fa-regular fa-keyboard keyboard-logo"></i>  
+            <i className="fa-regular fa-keyboard keyboard-logo"></i>  
         </div>
     </div>
   )
